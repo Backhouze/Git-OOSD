@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>ClipZone</title>
+	</head>
+	<body style="background-color:steelblue;">
+	<h1><img src="img/rinneganicon.jpg"/>Welcome to ClipZone <img src="img/XXX.png" /><br /></h1>
+		<ol>
+			<li>Brendan Backhouse - 403-809-2222</li>
+			<li>Belinda Backhouse - 403-804-3333</li>
+			<li>Dave Backhouse - 403-801-1523</li>
+			<li>Eric Backhouse - 403-809-3532</li>
+		</ol>
+		 <table border="1">
+			<tr><th>Heading 1</th><th>heading 2</th></tr>
+			<tr><td><a href="https://www.twitch.tv/directory/following">Twitch following</a></td><td rowspan="2"><img src="img/rinneganicon.jpg"</td></tr>
+			<tr><td>cell text</td></tr>
+			<tr><td colspan="2">wide column</td></tr>
+		</table>
+	</body>
+	</html>
+ 

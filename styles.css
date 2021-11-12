@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>CLASS</title>
+		<link rel="stylesheet" type="text/css" href="styles.css" />
+			<style>
+			body {
+				background-image: url("img/AKAME.jpg);
+				}
+				.redtext {
+				text-size: 10mm;
+				color:orange;
+				}
+				#p2 {
+					font-family: "Lucida Console", "Courier New", monospace;
+					}
+			</style>
+	</head>
